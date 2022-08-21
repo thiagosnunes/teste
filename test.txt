@@ -1,2 +1,3 @@
 test repo2
 Alterado via github
+Alteração com clone
